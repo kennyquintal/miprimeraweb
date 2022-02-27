@@ -1,0 +1,32 @@
+.estilo-body {
+    background-color: #008f39;
+    color:aliceblue;
+    text-align: center;
+    align-items: center;
+}
+
+.tabla {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.img {
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+
+.img-paisaje{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.tabla-redes{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.td {
+    width: 20%;
+}
+
